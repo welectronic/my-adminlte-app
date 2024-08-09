@@ -1,3 +1,9 @@
+import 'admin-lte/dist/css/adminlte.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'jquery/dist/jquery.min.js';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import 'admin-lte/dist/js/adminlte.min.js';
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
